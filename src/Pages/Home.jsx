@@ -6,12 +6,12 @@ import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Card, CardContent } from "@/components/ui/card";
 
-import HeroSection from "../../Components/avila/HeroSection";
-import ServicesSection from "../../Components/avila/ServicesSection";
-import PortfolioSection from "../../Components/avila/PortfolioSection";
-import ContactSection from "../../Components/avila/ContactSection";
-import AboutSection from "../../Components/avila/AboutSection";
-import NavigationBar from "../../Components/avila/NavigationBar";
+import HeroSection from "../Components/avila/HeroSection";
+import ServicesSection from "../Components/avila/ServicesSection";
+import PortfolioSection from "../Components/avila/PortfolioSection";
+import ContactSection from "../Components/avila/ContactSection";
+import AboutSection from "../Components/avila/AboutSection";
+import NavigationBar from "../Components/avila/NavigationBar";
 
 export default function Home() {
   const [activeSection, setActiveSection] = useState("hero");
