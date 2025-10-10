@@ -73,22 +73,22 @@ export default function Home() {
               <div className="space-y-3 text-gray-300">
                 <div className="flex items-center gap-3">
                   <Phone className="w-4 h-4" />
-                  <span>+1 (555) 123-4567</span>
+                  <span>14 3402-0553</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <Mail className="w-4 h-4" />
-                  <span>info@avilaeng.com</span>
+                  <span>projetos@avilaeng.com.br</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <MapPin className="w-4 h-4" />
-                  <span>San Francisco, CA</span>
+                  <span>Marília, SP</span>
                 </div>
               </div>
             </div>
           </div>
 
           <div className="border-t border-gray-700 mt-12 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 AVILA Engenharia Estrutural. Todos os direitos reservados.</p>
+            <p>&copy; 2025 - Avila Engenharia de Estruturas | Todos os direitos reservados. </p>
           </div>
         </div>
       </footer>
